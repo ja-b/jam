@@ -1,0 +1,9 @@
+Flask-Cors==2.0.1
+Flask==0.12
+Flask-SocketIO==2.0
+SQLAlchemy==1.1.0b3
+beautifulsoup4==4.3.2
+requests==2.18.4
+requests-ftp==0.3.1
+requests-oauthlib==0.4.2
+requests-toolbelt==0.3.1
